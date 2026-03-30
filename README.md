@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi there, I am Hien Pham, a full-stack web developer and life-long learner 👋
+
+- My technical stack is JavaScript, TypeScript, Angular, React, NestJS, Java.
+- 🔭 I’m currently working on [Angular Challenges](https://angular-challenges.vercel.app/)
+- 🌱 I’m currently learning [React Query](https://tanstack.com/query/latest)
+
+### My blog posts
+- [Leveraging Dependency Injection to reduce duplicated code in Angular](https://angular.love/leveraging-dependency-injection-to-reduce-duplicated-code-in-angular)
+- [How pure and impure pipes work in Angular Ivy](https://angular.love/how-pure-and-impure-pipes-work-in-angular-ivy)
+- [Subtle difference between map and pluck RxJS operators that you should know](https://angular.love/subtle-difference-between-map-and-pluck-rxjs-operators-that-you-should-know)
+- [Using dependency injection to automatically unsubscribe from an Observable](https://dev.to/playfulprogramming-angular/using-dependency-injection-to-automatically-unsubscribe-from-an-observable-30fi)
+
+### My conference talks
+- [TIL online conference](https://www.youtube.com/live/__Sup-HoBBI?si=D4XtF5hPhFTsSE-s&t=7768)
+
+### My recent open-source contributions
+- [Fix typo in Angular documentation](https://github.com/angular/angular/pull/50614)
+- [Add missing unit test to Angular CLI repository](https://github.com/angular/angular-cli/pull/21151)
+- [Fix potential memory leak issue](https://github.com/snowfrogdev/snowfrogdev/pull/20)
 
 <!--
 **phhien203/phhien203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
