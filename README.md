@@ -2,7 +2,7 @@
 
 - My technical stack is JavaScript, TypeScript, Angular, React, NestJS, Java.
 - 🔭 I’m currently working on [Angular Challenges](https://angular-challenges.vercel.app/)
-- 🌱 I’m currently learning [React Query](https://tanstack.com/query/latest)
+- 🌱 I’m building an interactive terminal based Finnish Dictionary named [Puhutko](https://puhutko.app)
 
 ### My blog posts
 - [Leveraging Dependency Injection to reduce duplicated code in Angular](https://angular.love/leveraging-dependency-injection-to-reduce-duplicated-code-in-angular)
