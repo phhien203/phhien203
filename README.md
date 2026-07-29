@@ -1,7 +1,7 @@
 ## Hi there, I am Hien Pham, a full-stack web developer and life-long learner 👋
 
 - My technical stack is JavaScript, TypeScript, Angular, React, NestJS, Java.
-- 🔭 I’m currently working on [Angular Challenges](https://angular-challenges.vercel.app/)
+- 🔭 I’m currently working on [Angular Challenges](https://github.com/tomalaforge/angular-challenges/pulls?q=is%3Apr+author%3Aphhien203+)
 - 🌱 I’m building an interactive terminal based Finnish Dictionary named [Puhutko](https://puhutko.app)
 
 ### My blog posts
@@ -14,7 +14,7 @@
 - [TIL online conference](https://www.youtube.com/live/__Sup-HoBBI?si=D4XtF5hPhFTsSE-s&t=7768)
 
 ### My recent open-source contributions
-- [Fix typo in Angular documentation](https://github.com/angular/angular/pull/50614)
+- [Contribute to the Angular documentation](https://github.com/angular/angular/issues?q=is%3Apr%20author%3A%40phhien203)
 - [Add missing unit test to Angular CLI repository](https://github.com/angular/angular-cli/pull/21151)
 - [Fix potential memory leak issue](https://github.com/snowfrogdev/snowfrogdev/pull/20)
 
