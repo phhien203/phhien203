@@ -3,7 +3,7 @@
 - My technical stack is JavaScript, TypeScript, Angular, React, Next.js, Python, Django, PostgreSQL.
 - 🌱 I have built an interactive terminal-based Finnish Dictionary named [Puhutko](https://puhutko.app), code repository is [here](https://github.com/phhien203/puhutko-lite)
 - 🔭 I am building a video-based learning management system called [HP Learny](https://github.com/phhien203/hp-learny)
-- 🧑‍🎓 I am studying master's programme at Arcada UAS about machine intelligence and data science.
+- 🧑‍🎓 I am studying master's programme at Arcada UAS about machine intelligence and data science and playing around with numpy, pandas, Matplotlib, Jupyter notebooks.
 
 ### My blog posts
 - [Leveraging Dependency Injection to reduce duplicated code in Angular](https://angular.love/leveraging-dependency-injection-to-reduce-duplicated-code-in-angular)
