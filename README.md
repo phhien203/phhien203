@@ -1,8 +1,9 @@
 ## Hi there, I am Hien Pham, a full-stack web developer and life-long learner 👋
 
-- My technical stack is JavaScript, TypeScript, Angular, React, NestJS, Java.
-- 🔭 I’m currently working on [Angular Challenges](https://github.com/tomalaforge/angular-challenges/pulls?q=is%3Apr+author%3Aphhien203+)
-- 🌱 I’m building an interactive terminal based Finnish Dictionary named [Puhutko](https://puhutko.app)
+- My technical stack is JavaScript, TypeScript, Angular, React, Next.js, Python, Django, PostgreSQL.
+- 🌱 I have built an interactive terminal-based Finnish Dictionary named [Puhutko](https://puhutko.app), code repository is [here](https://github.com/phhien203/puhutko-lite)
+- 🔭 I am building a video-based learning management system called [HP Learny](https://github.com/phhien203/hp-learny)
+- 🧑‍🎓 I am studying master's programme at Arcada UAS about machine intelligence and data science.
 
 ### My blog posts
 - [Leveraging Dependency Injection to reduce duplicated code in Angular](https://angular.love/leveraging-dependency-injection-to-reduce-duplicated-code-in-angular)
