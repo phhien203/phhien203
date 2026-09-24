@@ -5,11 +5,19 @@
 - 🔭 I am building a video-based learning management system called [HP Learny](https://github.com/phhien203/hp-learny)
 - 🧑‍🎓 I am studying master's programme at Arcada UAS about machine intelligence and data science and playing around with numpy, pandas, Matplotlib, Jupyter notebooks.
 
+### What I have built recently with Angular
+- A showcase of virtual scroll in Angular using custom virtual scroll strategy, https://ng-virtual-scroll.hien.page/virtual-scroll
+- World cup 2026 knockout bracket using Angular, https://ng-wc.vercel.app
+- A modular monolithic Angular starter template project, https://github.com/phhien203/ng-monolithic-starter
+
 ### My blog posts
 - [Leveraging Dependency Injection to reduce duplicated code in Angular](https://angular.love/leveraging-dependency-injection-to-reduce-duplicated-code-in-angular)
 - [How pure and impure pipes work in Angular Ivy](https://angular.love/how-pure-and-impure-pipes-work-in-angular-ivy)
 - [Subtle difference between map and pluck RxJS operators that you should know](https://angular.love/subtle-difference-between-map-and-pluck-rxjs-operators-that-you-should-know)
 - [Using dependency injection to automatically unsubscribe from an Observable](https://dev.to/playfulprogramming-angular/using-dependency-injection-to-automatically-unsubscribe-from-an-observable-30fi)
+
+### Product that I am a co-author
+- FileFaker, https://filefaker.com
 
 ### My conference talks
 - [TIL online conference](https://www.youtube.com/live/__Sup-HoBBI?si=D4XtF5hPhFTsSE-s&t=7768)
