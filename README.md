@@ -5,6 +5,9 @@
 - 🔭 I am building a video-based learning management system called [HP Learny](https://github.com/phhien203/hp-learny)
 - 🧑‍🎓 I am studying master's programme at Arcada UAS about machine intelligence and data science and playing around with numpy, pandas, Matplotlib, Jupyter notebooks.
 
+### My ML Projects
+- Titanic Survival Predictor, a small end-to-end machine learning application that estimates whether a Titanic passenger would have survived based on details, https://titanic-ml-app-v1.hien.page/
+
 ### What I have built recently with Angular
 - A showcase of virtual scroll in Angular using custom virtual scroll strategy, https://ng-virtual-scroll.hien.page/virtual-scroll
 - World cup 2026 knockout bracket using Angular, https://ng-wc.vercel.app
