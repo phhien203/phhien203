@@ -8,9 +8,10 @@
 ### My ML Projects
 - Titanic Survival Predictor, a small end-to-end machine learning application that estimates whether a Titanic passenger would have survived based on details, https://titanic-ml-app-v1.hien.page/
 
-### What I have built recently with Angular
-- A showcase of virtual scroll in Angular using custom virtual scroll strategy, https://ng-virtual-scroll.hien.page/virtual-scroll
-- World cup 2026 knockout bracket using Angular, https://ng-wc.vercel.app
+### What I have built recently
+- A showcase of modular, reuasable UI components, https://showcase-react.puhutko.app/member-management/my-team
+- A showcase of virtual scroll using custom virtual scroll strategy, https://ng-virtual-scroll.hien.page/virtual-scroll
+- World cup 2026 knockout bracket, https://ng-wc.vercel.app
 - A modular monolithic Angular starter template project, https://github.com/phhien203/ng-monolithic-starter
 
 ### My blog posts
