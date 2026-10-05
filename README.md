@@ -1,6 +1,6 @@
-## Hi there, I am Hien Pham, a full-stack web developer and life-long learner 👋
+## Hi there, I am Hien Pham, a frontend web developer and life-long learner 👋
 
-- My technical stack is JavaScript, TypeScript, Angular, React, Next.js, Python, Django, PostgreSQL.
+- My technical stack is JavaScript, TypeScript, React, Angular, Next.js, Python, Django, PostgreSQL.
 - 🌱 I have built an interactive terminal-based Finnish Dictionary named [Puhutko](https://puhutko.app), code repository is [here](https://github.com/phhien203/puhutko-lite)
 - 🔭 I am building a video-based learning management system called [HP Learny](https://github.com/phhien203/hp-learny)
 - 🧑‍🎓 I am studying master's programme at Arcada UAS about machine intelligence and data science and playing around with numpy, pandas, Matplotlib, Jupyter notebooks.
